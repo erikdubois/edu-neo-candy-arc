@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="kiro.jpg" alt="Kiro" width="220" />
+</p>
+
 # edu-neo-candy-arc
 
 A neo Candy icon theme variant built on the Arc design language. Part of Erik's `~/EDU/` Neo-Candy family — sweet, colourful icons that play well with Arc-derived GTK themes.
