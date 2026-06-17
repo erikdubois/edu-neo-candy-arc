@@ -2,7 +2,7 @@
   <img src="kiro.jpg" alt="Kiro" width="220" />
 </p>
 
-# edu-neo-candy-arc
+# kiro-neo-candy-arc
 
 A neo Candy icon theme variant built on the Arc design language. Part of Erik's `~/EDU/` Neo-Candy family — sweet, colourful icons that play well with Arc-derived GTK themes.
 
@@ -13,10 +13,10 @@ A neo Candy icon theme variant built on the Arc design language. Part of Erik's 
 
 ## Sibling variants
 
-- [edu-neo-candy-arc-mint-grey](https://github.com/erikdubois/edu-neo-candy-arc-mint-grey)
-- [edu-neo-candy-arc-mint-red](https://github.com/erikdubois/edu-neo-candy-arc-mint-red)
-- [edu-neo-candy-qogir](https://github.com/erikdubois/edu-neo-candy-qogir)
-- [edu-neo-candy-tela](https://github.com/erikdubois/edu-neo-candy-tela)
+- [kiro-neo-candy-arc-mint-grey](https://github.com/kirodubes/kiro-neo-candy-arc-mint-grey)
+- [kiro-neo-candy-arc-mint-red](https://github.com/kirodubes/kiro-neo-candy-arc-mint-red)
+- [kiro-neo-candy-qogir](https://github.com/kirodubes/kiro-neo-candy-qogir)
+- [kiro-neo-candy-tela](https://github.com/kirodubes/kiro-neo-candy-tela)
 
 ## Installation
 
@@ -30,14 +30,14 @@ Server = https://erikdubois.github.io/$repo/$arch
 
 ```bash
 sudo pacman -Syu
-sudo pacman -S edu-neo-candy-arc
+sudo pacman -S kiro-neo-candy-arc
 ```
 
 ### Manual
 
 ```bash
-git clone https://github.com/erikdubois/edu-neo-candy-arc.git
-cd edu-neo-candy-arc
+git clone https://github.com/kirodubes/kiro-neo-candy-arc.git
+cd kiro-neo-candy-arc
 sudo cp -r usr/share/icons/. /usr/share/icons/
 sudo gtk-update-icon-cache -f /usr/share/icons/<theme-folder>
 ```
